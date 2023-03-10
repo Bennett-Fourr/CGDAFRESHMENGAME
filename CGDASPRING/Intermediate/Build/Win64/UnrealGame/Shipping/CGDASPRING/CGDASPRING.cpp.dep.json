@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\freshmen 2023\\desktop\\desktop\\cgdafreshmengame\\cgdaspring\\intermediate\\source\\cgdaspring.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\freshmen 2023\\desktop\\desktop\\cgdafreshmengame\\cgdaspring\\intermediate\\build\\win64\\cgdaspring\\shipping\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\freshmen 2023\\desktop\\desktop\\cgdafreshmengame\\cgdaspring\\intermediate\\build\\win64\\unrealgame\\shipping\\cgdaspring\\definitions.cgdaspring.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
